@@ -1,4 +1,5 @@
-# WICED-STUDIO-6.x_Platform_Files for Avnet BCM4343W IoT Starter Kit
+# WICED-STUDIO-6.x_Platform_Files 
+# (Avnet BCM4343W IoT Starter Kit)
 
 Download this BCM94343W_AVN.zip file to your **...\WICED-Studio-6.x\43xxx_Wi-Fi\platforms folder** 
 
